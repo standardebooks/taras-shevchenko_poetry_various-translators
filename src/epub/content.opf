@@ -69,15 +69,15 @@
 		<dc:contributor id="translator-1">Alexander Jardine Hunter</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Hunter, Alexander Jardine</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/no2013047579</meta>
-		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Ethel Voynich</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Voynich, Ethel</meta>
 		<meta property="se:name.person.full-name" refines="#translator-2">Ethel Lilian Voynich</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Ethel_Voynich</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n83141674</meta>
-		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">Paul Selver</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Selver, Paul</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">https://en.wikipedia.org/wiki/Paul_Selver</meta>
@@ -88,8 +88,8 @@
 		<meta property="se:name.person.full-name" refines="#translator-4">Florence Hamilton Randal Livesay</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-4">https://en.wikipedia.org/wiki/Florence_Randal_Livesay</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-4">http://id.loc.gov/authorities/names/n82093684</meta>
-		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Ilya Yefimovich Repin</meta>
