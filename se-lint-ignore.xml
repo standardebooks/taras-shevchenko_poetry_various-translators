@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="poetry.xhtml">
-		<ignore code="t-005">
-			<line>2401</line>
-			<reason>This passage being flagged is not dialog (also, this is a poem anyways).</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
