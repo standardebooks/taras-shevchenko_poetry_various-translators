@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/taras-shevchenko/poetry/various-translators</dc:identifier>
 		<dc:date>2022-08-13T18:12:00Z</dc:date>
@@ -38,12 +38,12 @@
 		<meta property="term" refines="#subject-2">n79119044</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of Taras Shevchenko’s poetry.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of Taras Shevchenko’s poetry.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/taras-shevchenko"&gt;Taras Shevchenko&lt;/a&gt; is celebrated as the Ukrainian national poet and a founder of modern Ukrainian literature.&lt;/p&gt;
 			&lt;p&gt;A child of serfs, Shevchenko received a religious education before being discovered as a painter, leading to his emancipation from serfdom in 1838. After a few years of activity as a painter and poet in the early 1840s, Shevchenko was arrested by Tsarist Russian authorities for his revolutionary poetry and association with the Brotherhood of Saints Cyril and Methodius, a secret society for the liberation of Ukraine. Subsequently, Shevchenko was ordered to be exiled to Siberia “under the strictest surveillance, without the right to write or paint” by Tsar Nicholas I himself. (He had earned the Tsar’s enmity by writing a poem mocking his wife’s appearance.)&lt;/p&gt;
 			&lt;p&gt;Shevchenko returned to Ukraine following Nicholas I’s death, but died shortly thereafter. Shevchenko’s poetry continues to inspire those engaged in the struggle for Ukrainian independence, including the Euromaidan protests of the early 2010s and resistance against the 2022 Russian invasion of Ukraine.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-CA</dc:language>
 		<!--The Kobzar of the Ukraine (Hunter)-->
 		<dc:source>https://www.gutenberg.org/ebooks/68486</dc:source>
