@@ -38,7 +38,7 @@
 		<meta property="term" refines="#subject-2">n79119044</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of Taras Shevchenko’s poetry.</dc:abstract>
+		<meta property="schema:abstract">A collection of Taras Shevchenko’s poetry.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/taras-shevchenko"&gt;Taras Shevchenko&lt;/a&gt; is celebrated as the Ukrainian national poet and a founder of modern Ukrainian literature.&lt;/p&gt;
 			&lt;p&gt;A child of serfs, Shevchenko received a religious education before being discovered as a painter, leading to his emancipation from serfdom in 1838. After a few years of activity as a painter and poet in the early 1840s, Shevchenko was arrested by Tsarist Russian authorities for his revolutionary poetry and association with the Brotherhood of Saints Cyril and Methodius, a secret society for the liberation of Ukraine. Subsequently, Shevchenko was ordered to be exiled to Siberia “under the strictest surveillance, without the right to write or paint” by Tsar Nicholas I himself. (He had earned the Tsar’s enmity by writing a poem mocking his wife’s appearance.)&lt;/p&gt;
